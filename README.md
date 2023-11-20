@@ -1,5 +1,5 @@
 # AnalyzingEventsInCountries-
----
+
 I selected 4 countries in order to obtain as much information as possible for analysis.
 The main state I have focused on is **Mississippi** and the other states are Chicago, Connecticut and Georgia.
 The goal is to analyze and describe the sequence of events that took place in the chosen country following the reversal of the ruling of Row v. Wade
